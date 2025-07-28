@@ -1,1 +1,1 @@
-# test1
+# GNB_STATUS
